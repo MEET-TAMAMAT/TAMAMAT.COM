@@ -1,6 +1,9 @@
-Thanks for downloading this template!
+git init
 
-Template Name: FlexStart
-Template URL: https://bootstrapmade.com/flexstart-bootstrap-startup-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+git add .
+
+git commit -m "Site Upload from VS to GitHub"
+
+git remote add origin https://github.com/MEET-TAMAMAT/TAMAMAT.COM.git
+
+git push -u origin master
